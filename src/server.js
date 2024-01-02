@@ -18,7 +18,7 @@ initWebRoutes(app);
 app.get('/kenzobap', (req, res) => {
    setTimeout(() => {
       throw new Error("We crashed!!")
-   }, 5000)
+   }, 10)
 })
 
 let port = process.env.PORT || 8080;
