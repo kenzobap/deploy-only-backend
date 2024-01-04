@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "doctor appointment booking system nodejs mysql",
   "engines": {
-    "npm": "10.x"
+    "node": "14.17.0"
   },
   "main": "server.js",
   "scripts": {
