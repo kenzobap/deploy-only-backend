@@ -2,6 +2,9 @@
   "name": "doctorappointmentbookingsystem",
   "version": "1.0.0",
   "description": "doctor appointment booking system nodejs mysql",
+  "engines": {
+    "npm": "10.x"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
