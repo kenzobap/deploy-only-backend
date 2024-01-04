@@ -1,1 +1,1 @@
-web:npm run pm-prod
+web:pm2 start dist/server.js
